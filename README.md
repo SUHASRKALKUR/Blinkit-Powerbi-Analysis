@@ -50,10 +50,12 @@ Profit = Revenue × Profit Margin %
 ## Dashboard Screenshots
 
 ### Page 1 – Sales Overview
-![Dashboard Page 1](images/dashboard_page1.png)
+<img width="1337" height="726" alt="1st_page_report" src="https://github.com/user-attachments/assets/eae13459-335f-4ef6-af0b-3431fe8d8b69" />
+
 
 ### Page 2 – Operational Insights
-![Dashboard Page 2](images/dashboard_page2.png)
+<img width="1327" height="743" alt="2nd_page_report" src="https://github.com/user-attachments/assets/06ec80e6-ff31-456e-ae37-9d2b4b982e30" />
+
 
 ## Key Insights
 - Household category generates the highest revenue.
